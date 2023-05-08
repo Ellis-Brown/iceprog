@@ -75,3 +75,5 @@ For any further help, feel free to raise an issue on this github repository, alt
 > Note: There is also a command line script to help students install the iceprog binaries locally, then run from the command line without the GUI tool. It is not officially supported. However, this accounts for the other files in the repository, and it is recommended that these files are not deleted. 
 
 > Note: The flasher GUI does not successfully stream data live from iceprog to the GUI, and will only show your output after flashing is fully complete or fails. A fix was attempted, but it was deemed not worthy of solving at this time.
+
+> Note: This repository was built in combination with the [Platform Agonstic Web IDE for ice40 FPGAs](https://github.com/dahalankur/es4VHDL). However, this platform uses the backend of the Tufts University Electrical Engineering and Computer Science departments, and therefore assumes each user already has an account on the system. See that project for more information on how to develop a standalone web IDE for VHDL.
