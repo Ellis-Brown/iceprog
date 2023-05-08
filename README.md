@@ -54,7 +54,7 @@ Please FULLY READ the steps below before following them.
 - Make sure you have installed the correct version of the flasher for your platform
 - Make sure you have the correct permissions to run the flasher
 
-## Contributing and Help
+## Contributing and further help
 For any further help, feel free to raise an issue on this github repository, although this is not actively maintained. Pull requests are welcome. 
 
 ## Project Overview
