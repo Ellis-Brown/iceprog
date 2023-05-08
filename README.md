@@ -3,8 +3,8 @@
 This GUI application tool uses iceprog from [icestorm](https://clifford.at/icestorm) to flash a binary file to an FPGA on Windows, Linux and Mac. This is insteaded to make the process of flashing compiled FPGA code to an FPGA board easier, and to reduce the need to install the entire icestorm toolchain. This was built for ice40 FPGAs, but may work with other FPGAs.
 
 
-<img src="FlasherImage.png" width="400" alt="GUI FlashToFPGA program">
-<img src="FlasherIconImage.png" alt="GUI FlashToFPGA program icon">
+![FlasherImage.png](FlasherImage.png) ![FlasherIconImage.png](FlasherIconImage.png)
+
 
 #
 
